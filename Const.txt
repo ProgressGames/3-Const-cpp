@@ -1,0 +1,2 @@
+⁙ Константа – значение, не изменяемое при выполнении программы
+⁙ Constant– a value that is not changed during program execution
